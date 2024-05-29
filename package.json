@@ -1,0 +1,25 @@
+{
+  "name": "mern-ai-chatbot-starting-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "react-scripts build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.13",
+    "notyf": "^3.10.0",
+    "react-feather": "^2.0.10",
+    "react-loading": "^2.0.3",
+    "react-spinners": "^0.13.8"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1",
+    "vite": "^5.2.11"
+  }
+}
